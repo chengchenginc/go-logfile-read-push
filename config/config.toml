@@ -1,0 +1,13 @@
+title = "logfile read push config"
+
+[redis]
+host = "192.168.99.100"
+port = 6379
+username = ""
+password = ""
+database = "apache-log"
+
+[logfile]
+filePath = "C:/softs/apache/x64/logs/error.log"
+
+[metrics]
